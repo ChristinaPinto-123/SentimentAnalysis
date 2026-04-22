@@ -7,7 +7,9 @@ Subjectivity shows the degree to which the text is influenced by the author's ow
 
 Tech Stack
 Backend: Python, Flask
+
 NLP Engine: TextBlob
+
 Frontend: HTML5, CSS3
 
 
