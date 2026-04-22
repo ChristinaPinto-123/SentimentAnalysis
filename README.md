@@ -6,6 +6,7 @@ Polarity is used to measure the emotional direction of the text and  ranges from
 Subjectivity shows the degree to which the text is influenced by the author's own personal bias, opinions and beliefs with it's value ranging from 0 (objective) to 1 (subjective).
 
 Tech Stack
+
 Backend: Python, Flask
 
 NLP Engine: TextBlob
